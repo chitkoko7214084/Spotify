@@ -5,4 +5,4 @@ This is one of the data science projects of mine. User can fill out a survey que
 Data - Spotify songs
 Language - R
 
-Link : https://lnkd.in/gcqYcrcK
+Link : https://chitkoko7214084.shinyapps.io/spotify-data/
